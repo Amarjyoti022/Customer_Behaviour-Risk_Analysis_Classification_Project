@@ -6,19 +6,19 @@ This project is an end-to-end machine learning classification system designed to
 The workflow covers complete ML lifecycle — from data collection and preprocessing to model comparison and performance evaluation.
 
 ## Key Highlights
-Dataset Understanding: Customer demographics, transaction history, spending patterns, and risk labels (Churn & Fraud).
+-Dataset Understanding: Customer demographics, transaction history, spending patterns, and risk labels (Churn & Fraud).
 
-Data Preprocessing: Missing value treatment, duplicate removal, outlier handling, and date-time conversion.
+-Data Preprocessing: Missing value treatment, duplicate removal, outlier handling, and date-time conversion.
 
-Feature Engineering
+-Feature Engineering
 
-EDA: Distribution analysis, churn/fraud patterns, category preferences, correlation heatmaps.
+-EDA: Distribution analysis, churn/fraud patterns, category preferences, correlation heatmaps.
 
-Modeling: Implemented 8 classification algorithms — Logistic Regression, KNN, SVC, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, and XGBoost.
+-Modeling: Implemented 8 classification algorithms — Logistic Regression, KNN, SVC, Decision Tree, Random Forest, AdaBoost, Gradient Boosting, and XGBoost.
 
-Evaluation: Compared models on Accuracy, Precision, Recall, F1-Score, and ROC-AUC to find the best-performing model.
+-Evaluation: Compared models on Accuracy, Precision, Recall, F1-Score, and ROC-AUC to find the best-performing model.
 
-Business Impact: Enables proactive churn prevention, fraud detection, and customer segmentation for targeted marketing campaigns.
+-Business Impact: Enables proactive churn prevention, fraud detection, and customer segmentation for targeted marketing campaigns.
 
 ## Tools & Technologies
 Programming Language: Python
